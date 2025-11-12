@@ -1,0 +1,16 @@
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\bin\Debug\net9.0-windows\ejemplo_RadixSort.exe
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\bin\Debug\net9.0-windows\ejemplo_RadixSort.deps.json
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\bin\Debug\net9.0-windows\ejemplo_RadixSort.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\bin\Debug\net9.0-windows\ejemplo_RadixSort.dll
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\bin\Debug\net9.0-windows\ejemplo_RadixSort.pdb
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.Form1.resources
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.dll
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\refint\ejemplo_RadixSort.dll
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.pdb
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ejemplo_RadixSort.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\ejemplo_RadixSort\ejemplo_RadixSort\obj\Debug\net9.0-windows\ref\ejemplo_RadixSort.dll
